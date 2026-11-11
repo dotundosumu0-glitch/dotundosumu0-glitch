@@ -1,4 +1,4 @@
-# DEE
+# 𝓓𝓔𝓔
 ### Computer Engineering | Systems, Software & Hardware
 
 I'm a 500-level Computer Engineering student interested in how software interacts with hardware — from low-level systems and performance to embedded devices, networking, and interactive applications.
