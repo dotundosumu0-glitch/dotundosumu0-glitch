@@ -28,10 +28,13 @@ I aim to publish projects with clear documentation, reproducible setup steps, te
 
 ## Experience
 
-- **African Union Commission — MISD, Helpdesk & Network Team**  
+- **Secure ID Limited — EMV / Card Technology** · Lagos, Nigeria  
+  Industrial training exposure to EMV smart-card technology and card-production workflows, including card personalisation concepts, chip interfaces, structured card data, and specialised card equipment.
+
+- **African Union Commission — MISD, Helpdesk & Network Team** · Addis Ababa, Ethiopia  
   Industrial training in IT support and network operations, including Windows deployment, troubleshooting, VPN/MFA support, network documentation, and switch-related tasks.
 
-- **Lekas Global Computer Services**  
+- **Lekas Global Computer Services** · Lagos, Nigeria  
   IT internship involving hardware diagnostics, software installation, basic network/router troubleshooting, and client support.
 
 ## Tools & technologies
